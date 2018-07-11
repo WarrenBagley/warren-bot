@@ -1,1 +1,1 @@
-"# warren-bot" 
+Warren's Test Bot for Discord
